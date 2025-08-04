@@ -1,0 +1,1 @@
+// Lógica adicional para visualização mobile

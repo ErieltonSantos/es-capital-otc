@@ -1,0 +1,1 @@
+// Scripts para integração com APIs externas
