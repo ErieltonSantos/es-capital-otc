@@ -1,0 +1,1 @@
+// Simulador de operações em ambiente de teste
