@@ -1,0 +1,33 @@
+Documentação Técnica da Plataforma ES Capital OTC
+
+1. Visão Geral do Sistema
+   - Descrição da plataforma
+   - Principais funcionalidades
+
+2. Arquitetura do Sistema
+   - Diagrama de arquitetura
+   - Tecnologias utilizadas (Frontend, Backend, Banco de Dados)
+   - Fluxo de dados
+
+3. Especificação de APIs
+   - Endpoints disponíveis
+   - Métodos suportados (GET, POST, PUT, DELETE)
+   - Estrutura de requisição e resposta
+   - Exemplos de uso
+
+4. Instruções de Deploy
+   - Pré-requisitos
+   - Passos para instalação e configuração
+   - Variáveis de ambiente
+   - Comandos para iniciar o sistema
+
+5. Diretrizes de Desenvolvimento
+   - Padrões de codificação
+   - Processo de versionamento
+   - Testes automatizados
+   - Como contribuir
+
+6. Referências e Contatos
+   - Documentos adicionais
+   - Equipe responsável
+   - Suporte técnico
